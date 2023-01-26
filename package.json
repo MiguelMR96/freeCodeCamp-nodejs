@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Miguel M.",
 	"description": "Cool app with nodejs and freeCodeCamp",
+	"keywords": ["freecodecamp", "nodejs", "liveapp"],
 	"dependencies": {
 		"express": "^4.18.2"
 	},
